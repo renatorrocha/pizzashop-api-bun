@@ -15,6 +15,20 @@
       "when": 1726949288780,
       "tag": "0001_curvy_warlock",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1726949855554,
+      "tag": "0002_young_thunderball",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1726951295523,
+      "tag": "0003_ambiguous_king_bedlam",
+      "breakpoints": true
     }
   ]
 }

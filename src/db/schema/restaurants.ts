@@ -10,10 +10,9 @@ export const restaurants = pgTable("restaurants", {
 
 	name: text("name").notNull(),
 	description: text("description").notNull(),
-	email: text("email").notNull().unique(),
 
 	managerId: text("manager_id").references(() => users.id, {
-		onDelete: "set null",
+		onDelete: "set null", 
 	}),
 
 	createdAt: timestamp("created_at").notNull().defaultNow(),

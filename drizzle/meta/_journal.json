@@ -36,6 +36,13 @@
       "when": 1726964612267,
       "tag": "0004_odd_shape",
       "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1726981412810,
+      "tag": "0005_simple_echo",
+      "breakpoints": true
     }
   ]
 }
